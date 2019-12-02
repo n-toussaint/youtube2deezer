@@ -1,6 +1,8 @@
 # youtube2deezer
 
-```bash
-test
-'''
-`hey'
+usage:
+  $ python sbd.py --test
+info et petite orecision
+
+exampe:
+  $ test
