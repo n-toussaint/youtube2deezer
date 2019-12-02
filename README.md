@@ -10,6 +10,3 @@ usage:
 ```
 
     <html>
-      <head>
-      </head>
-    </html>
