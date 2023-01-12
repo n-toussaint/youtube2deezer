@@ -3,6 +3,7 @@
         "hash": {
             "sha256": "0f330381f98985272957c617bfd4410de12ac5deb3a14ab97480870069473945"
         },
+        "pipfile-spec": 6,
         "requires": {},
         "sources": [
             {
@@ -13,24 +14,51 @@
     },
     "default": {
         "certifi": {
-            "version": "==2017.7.27.1"
+            "hashes": [
+                "sha256:e4f3620cfea4f83eedc95b24abd9cd56f3c4b146dd0177e83a21b4eb49e21e50",
+                "sha256:fd7c7c74727ddcf00e9acd26bba8da604ffec95bf1c2144e67aff7a8b50e6cef"
+            ],
+            "version": "==2019.9.11"
         },
         "chardet": {
+            "hashes": [
+                "sha256:84ab92ed1c4d4f16916e05906b6b75a6c0fb5db821cc65e70cbd64a3e2a5eaae",
+                "sha256:fc323ffcaeaed0e0a02bf4d117757b98aed530d9ed4531e3e15460124c106691"
+            ],
             "version": "==3.0.4"
         },
         "configparser": {
+            "hashes": [
+                "sha256:5308b47021bc2340965c371f0f058cc6971a04502638d4244225c49d80db273a"
+            ],
             "version": "==3.5.0"
         },
         "idna": {
-            "version": "==2.6"
+            "hashes": [
+                "sha256:156a6814fb5ac1fc6850fb002e0852d56c0c8d2531923a51032d1b70760e186e",
+                "sha256:684a38a6f903c1d71d6d5fac066b58d7768af4de2b832e426ec79c30daa94a16"
+            ],
+            "version": "==2.7"
         },
         "requests": {
-            "version": "==2.18.4"
+            "hashes": [
+                "sha256:99dcfdaaeb17caf6e526f32b6a7b780461512ab3f1d992187801694cba42770c",
+                "sha256:a84b8c9ab6239b578f22d1c21d51b696dcfe004032bb80ea832398d6909d7279"
+            ],
+            "version": "==2.20.0"
         },
         "urllib3": {
-            "version": "==1.22"
+            "hashes": [
+                "sha256:2393a695cd12afedd0dcb26fe5d50d0cf248e5a66f75dbd89a3d4eb333a61af4",
+                "sha256:a637e5fae88995b256e3409dc4d52c2e2e0ba32c42a6365fee8bbd2238de3cfb"
+            ],
+            "version": "==1.24.3"
         },
         "youtube-dl": {
+            "hashes": [
+                "sha256:29f3268796d18febe7ddefa2fd936c8c490cfdf3476017af875247af99a14676",
+                "sha256:c1153a3cae3e31d6feee502dbf1f4054f5fff170071dbbd5a937c600a452b99f"
+            ],
             "version": "==2017.9.15"
         }
     },
